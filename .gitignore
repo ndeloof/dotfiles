@@ -1,0 +1,9 @@
+.idea
+*.iml
+.DS_Store
+.java-version
+work/
+target/
+*.swp
+bower_components/
+
