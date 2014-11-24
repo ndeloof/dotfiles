@@ -1,0 +1,6 @@
+
+# Control-arrow to move to start/end of line
+"\e[1;5C": end-of-line
+"\e[1;5D": beginning-of-line
+"\e[5C": end-of-line
+"\e[5D": beginning-of-line

@@ -25,3 +25,9 @@ export DOCKER_CERT_PATH=/Users/nicolas/.boot2docker/certs/boot2docker-vm
 export DOCKER_TLS_VERIFY=1
 export DOCKER_HOST=tcp://boot2docker:2376
 
+
+# The next line updates PATH for the Google Cloud SDK.
+source '/Users/nicolas/google-cloud-sdk/path.bash.inc'
+
+# The next line enables bash completion for gcloud.
+source '/Users/nicolas/google-cloud-sdk/completion.bash.inc'
